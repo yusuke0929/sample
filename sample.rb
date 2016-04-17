@@ -3,3 +3,4 @@ def hello
 end
 
 hello
+test
