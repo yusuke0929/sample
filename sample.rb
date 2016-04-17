@@ -3,3 +3,7 @@ def hello
 end
 
 hello
+test
+hoge
+huga
+ijoi
